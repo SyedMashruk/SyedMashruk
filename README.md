@@ -25,7 +25,15 @@
 
 </div>
 
-## Github Stats
+## 💻 Tech Stack:
+
+<div align="center">
+    
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+</div>
+
+## 📊 Github Stats
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedMashruk&theme=aura_dark)
@@ -37,15 +45,23 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyedMashruk&theme=aura_dark&card_width=700&hide_border=true)
 
+</div>
+
 ## ✍️ Random Dev Quote
+<div align="center">
+    
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura_dark)
 
+</div>
+
 ## 🏆 GitHub Trophies
+<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=SyedMashruk&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
-## Profile Views
+## 🤵‍♂️ Profile Views
 <div align="center">
     
 ![:SyedMashruk](https://count.getloli.com/get/@:SyedMashruk?theme=aura_dark)
