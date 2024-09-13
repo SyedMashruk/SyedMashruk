@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&duration=3000&&pause=25&background=00000000&color=36BCF7FF&center=true&multiline=true&random=false&width=800&height=190&lines=Hi;I'm+Syed+Mohtasib+Mashruk;Final+year+CSE+student+at+AUST;Software+Artisan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&size=40&duration=1000&&pause=10&background=00000000&color=36BCF7FF&center=true&multiline=true&random=false&width=800&height=190&lines=Hi;I'm+Syed+Mohtasib+Mashruk;Final+year+CSE+student+at+AUST;Software+Artisan)](https://git.io/typing-svg)
 
 
 <a href="mailto:mohtasibb2002@gmail.com">
