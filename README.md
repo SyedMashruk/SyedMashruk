@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
 
-<a href="https://github.com/SyedMashruk/resume/blob/main/Mashruk_resume.pdf">
+<a href="https://github.com/SyedMashruk/resume/blob/main/Syed_Mohtasib_Mashruk_Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
