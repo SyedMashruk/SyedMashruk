@@ -44,8 +44,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMashruk&theme=aura_dark&layout=donut&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SyedMashruk&theme=aura_dark&card_width=700&hide_border=true)
-
 </div>
 
 ## ✍️ Random Dev Quote
